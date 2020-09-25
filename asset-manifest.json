@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mefaltaunverano-web/static/css/main.e6ef48d6.chunk.css",
+    "main.js": "/mefaltaunverano-web/static/js/main.a831f4e0.chunk.js",
+    "runtime-main.js": "/mefaltaunverano-web/static/js/runtime-main.d6435de9.js",
+    "static/js/2.52edec0d.chunk.js": "/mefaltaunverano-web/static/js/2.52edec0d.chunk.js",
+    "index.html": "/mefaltaunverano-web/index.html",
+    "precache-manifest.953f97ab854a106735c83b7cd41a5555.js": "/mefaltaunverano-web/precache-manifest.953f97ab854a106735c83b7cd41a5555.js",
+    "service-worker.js": "/mefaltaunverano-web/service-worker.js",
+    "static/js/2.52edec0d.chunk.js.LICENSE.txt": "/mefaltaunverano-web/static/js/2.52edec0d.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/mefaltaunverano-web/static/media/logo.7454bcaa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6435de9.js",
+    "static/js/2.52edec0d.chunk.js",
+    "static/css/main.e6ef48d6.chunk.css",
+    "static/js/main.a831f4e0.chunk.js"
+  ]
+}
