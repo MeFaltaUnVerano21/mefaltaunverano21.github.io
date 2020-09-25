@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MeFaltaUnVerano21.github.io/static/css/main.e6ef48d6.chunk.css",
-    "main.js": "/MeFaltaUnVerano21.github.io/static/js/main.46e42779.chunk.js",
-    "runtime-main.js": "/MeFaltaUnVerano21.github.io/static/js/runtime-main.f9b3f052.js",
-    "static/js/2.4bd782eb.chunk.js": "/MeFaltaUnVerano21.github.io/static/js/2.4bd782eb.chunk.js",
-    "index.html": "/MeFaltaUnVerano21.github.io/index.html",
-    "precache-manifest.7cd97f0d38e013881a59388eed66b731.js": "/MeFaltaUnVerano21.github.io/precache-manifest.7cd97f0d38e013881a59388eed66b731.js",
-    "service-worker.js": "/MeFaltaUnVerano21.github.io/service-worker.js",
-    "static/js/2.4bd782eb.chunk.js.LICENSE.txt": "/MeFaltaUnVerano21.github.io/static/js/2.4bd782eb.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/MeFaltaUnVerano21.github.io/static/media/logo.7454bcaa.png"
+    "main.css": "/static/css/main.e6ef48d6.chunk.css",
+    "main.js": "/static/js/main.7d189467.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.8aaadf81.js",
+    "static/js/2.badd2d0c.chunk.js": "/static/js/2.badd2d0c.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.451cef79227d86e657961b605b9804a4.js": "/precache-manifest.451cef79227d86e657961b605b9804a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.badd2d0c.chunk.js.LICENSE.txt": "/static/js/2.badd2d0c.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/static/media/logo.7454bcaa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9b3f052.js",
-    "static/js/2.4bd782eb.chunk.js",
+    "static/js/runtime-main.8aaadf81.js",
+    "static/js/2.badd2d0c.chunk.js",
     "static/css/main.e6ef48d6.chunk.css",
-    "static/js/main.46e42779.chunk.js"
+    "static/js/main.7d189467.chunk.js"
   ]
 }
